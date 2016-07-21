@@ -1,0 +1,10 @@
+.blanco{
+	border: 2px black solid;
+	width: 100px;
+	height: 90px;
+	background-color: grey; 
+}
+.gris{
+	background-color: grey;
+	float: left;
+}
